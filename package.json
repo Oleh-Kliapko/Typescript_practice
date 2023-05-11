@@ -10,9 +10,6 @@
   "keywords": [],
   "author": "Oleh_Kliapko <goldclub1977@gmail.com>",
   "license": "ISC",
-  "devDependencies": {
-    "typescript": "^5.0.4"
-  },
   "dependencies": {
     "lite-server": "^2.6.1"
   }
